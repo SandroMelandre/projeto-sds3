@@ -1,4 +1,6 @@
 
 TODO.TXT
-
-sql
+sql/
+sql/base/
+sql/base/16384/
+backend/dsvendas/create.sql
